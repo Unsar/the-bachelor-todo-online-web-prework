@@ -5,8 +5,7 @@ def get_first_name_of_season_winner(data,season)
    end
  end
 end
-get_first_name_of_season_winner(datas, "season 30")
-end
+
 
 def get_contestant_name(data, occupation)
   # code here
